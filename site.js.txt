@@ -1,1 +1,6 @@
-<script> alert("Im excited to learn more")</script>
+<script>
+function myfunction(){ 
+alert("im excited to learn more in 354")
+}
+
+</script>
